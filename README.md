@@ -1,3 +1,5 @@
+DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
+
 # Made only for Educational purpose.
 
 ![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML%20&%20TAILWIND%20CSS-blue?style=for-the-badge)
